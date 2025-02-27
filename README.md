@@ -1,7 +1,6 @@
 # 🖥️ Random Hostname Generator & Analysis with Advanced Python 🧑‍💻
 
 ## Project Overview 🎯
-## Project Overview 🎯
 This project is a training project for a Master's program, designed by a professor at **Universidad Complutense de Madrid (UCM)**. It focuses on generating random hostnames using Python and performing analysis on the generated hostnames. It leverages various Python libraries to generate, manipulate, and analyze random hostnames. The analysis includes visualizations, distributions, and other Python techniques to detect patterns in the generated data.
 
 ## 📚 Key Features & Tools
